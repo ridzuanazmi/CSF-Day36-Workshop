@@ -6,7 +6,7 @@ export class Weather {
         public humidity: number,
         public description: string,
         public imageUrl: string,
-        public windSpeed: string,
+        public windSpeed: number,
         public windDegree: number
     ) {
 
